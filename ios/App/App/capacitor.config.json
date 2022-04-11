@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "test-react-cap-deploy",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
