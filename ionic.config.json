@@ -1,0 +1,7 @@
+{
+  "name": "test-react-cap-deploy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
